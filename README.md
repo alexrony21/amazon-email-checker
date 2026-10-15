@@ -1,6 +1,6 @@
 ## Amazon Email Validator
 
-![Amazon Email Validator](https://raw.githubusercontent.com/alexrony21/amazon-email-checker/refs/heads/main/amazon-email-checker.png)
+![Amazon Email Validator](https://raw.githubusercontent.com/alexrony21/amazon-email-checker/refs/heads/main/amazon-email-checker-github.png)
 
 ---
 
